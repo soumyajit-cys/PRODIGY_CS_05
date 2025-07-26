@@ -22,15 +22,12 @@ Check console output in real-time
 Inspect historical logs in net_logs/ directory
 
 Sample Output
-text
-============================================================
 🕒 Timestamp        : 2023-08-15 14:30:45
 📍 Local Address    : 192.168.1.10:49685
 🌐 Remote Address   : 172.217.14.206:443
 🔍 Remote Hostname  : fra16s48-in-f14.1e100.net
 ⚙️  Process PID      : 1234
 🔁 Connection Status: ESTABLISHED
-============================================================
 
 Key Functions
 get_log_path() - Generates daily log file paths
